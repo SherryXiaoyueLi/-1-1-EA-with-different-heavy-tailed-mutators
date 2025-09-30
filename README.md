@@ -1,6 +1,11 @@
 # OnePlusOneEA with different heavy-tailed mutators
 This is the code for the following paper:
 
+Xiaoyue Li, Samuel Baguley, and Timo Kötzing. Algorithm Performance
+Comparison of the (1+1) EA with Heavy-Tailed Mutators. In: 2025
+IEEE Congress on Evolutionary Computation (CEC). 2025, 1–4. doi: 10.1109/
+CEC65147.2025.11042990 
+
 @inproceedings{li2025CEC,
   author    = {Xiaoyue Li and Samuel Baguley and Timo K{\"o}tzing},
   title     = {Algorithm Performance Comparison of the (1+1) EA with Heavy-Tailed Mutators},
